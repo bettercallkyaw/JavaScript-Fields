@@ -63,7 +63,7 @@ let val;
 //simple math with numbers
 val=num1+num2;
 val=num1-num2;
-val=num1*um2;
+val=num1*num2;
 val=num1/num2;
 val=num1%num2;
 
