@@ -1,0 +1,6 @@
+Dynamically Typed Language
+-Types are associated with values not variables
+-The same variable can hold multiple types
+-We do not need to specify types
+-Most other languages are stattically types(C#,C++,Java)
+-There are supersets of JS and addons to allow static typing(TypeScript,Flow)
